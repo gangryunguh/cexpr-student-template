@@ -1,0 +1,11 @@
+.idea
+*~
+*.o
+*.exe
+*.bin
+output*.txt
+\#*\#
+cgram.c
+y.tab.h
+cmake-build-debug
+
